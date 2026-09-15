@@ -25,4 +25,5 @@
     let cond = distanceFromCenter <= 100;
 
     return select(empty, color, cond);
+    //return vec4f(1, 1, 1, 1);
 }
