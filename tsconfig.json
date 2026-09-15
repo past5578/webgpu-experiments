@@ -2,7 +2,7 @@
     "compilerOptions": {
         "module": "nodenext",
         "target": "esnext",
-        "types": ["@webgpu/types"],
+        "types": ["vite/client", "@webgpu/types"],
         "sourceMap": true,
         "declaration": true,
         "declarationMap": true,
